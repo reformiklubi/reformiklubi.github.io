@@ -1,0 +1,48 @@
+html,body {
+    height:100%;
+}
+
+body {
+    margin:0;
+    padding:0;
+    background:#eaeaea;
+    font-family:Verdana, Tahoma, Arial, Geneva;
+}
+
+h1 {
+    margin:0 auto;
+    text-align:center;
+    font-size:xx-large;
+    color:#3a3a3a;
+    padding-top:25px;
+    padding-bottom:25px;
+}
+
+#uutineet {
+    width:500px;
+    padding:10px 20px;
+    margin:0 10px 20px;
+    background-color:#f0f0f0;
+    border:1px solid #ccc;
+}
+
+#yhteystiedot {
+    width:350px;
+    padding:10px 20px;
+    margin:0 10px 20px;
+    background-color:#f0f0f0;
+    border:1px solid #ccc;
+}
+
+#linkit {
+    width:350px;
+    padding:10px 20px;
+    margin:0 10px 20px;
+    background-color:#f0f0f0;
+    border:1px solid #ccc;
+}
+
+#footer {
+    text-align:center;
+    font-size:80%;
+}
